@@ -1,12 +1,12 @@
 <div align="center">
 
-# Cornelius Fiyinfoluwa
+# 👋 Hi, I'm Cornelius Fiyinfoluwa
 
 ### **Data Analyst • Business Intelligence • Evidence-First Analytics**
 
 # **I don't trust data because it's clean—I trust it because I've challenged it.**
 
-I help organizations replace assumptions with evidence by transforming complex data into actionable insights that support confident business decisions.
+Welcome to my profile! I help organizations replace assumptions with evidence by transforming complex data into actionable insights that support confident business decisions. Feel free to explore my work and reach out — I'd love to connect.
 
 <p>
 <a href="https://linkedin.com/in/fiyinfoluwa-cornelius-140036345">
@@ -15,6 +15,10 @@ I help organizations replace assumptions with evidence by transforming complex d
 &nbsp;
 <a href="mailto:corneliusdamilola64@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://wa.me/message/4C74BCNCFLNUA1">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
 
@@ -93,6 +97,8 @@ I'm seeking opportunities as a **Data Analyst** or **Business Intelligence Analy
 
 💼 **LinkedIn:** [fiyinfoluwa-cornelius](https://linkedin.com/in/fiyinfoluwa-cornelius-140036345)
 
+📱 **WhatsApp:** [Chat with me](https://wa.me/message/4C74BCNCFLNUA1)
+
 🌐 **Portfolio:** *Coming Soon*
 
 ---
@@ -101,6 +107,6 @@ I'm seeking opportunities as a **Data Analyst** or **Business Intelligence Analy
 
 ### *"Good dashboards explain what happened. Great analysts explain why it happened—and what should happen next."*
 
-⭐ **Thanks for visiting! Feel free to explore my repositories and connect with me.**
+⭐ **Thanks for stopping by! Feel free to explore my repositories, say hi, or reach out — I'm always happy to connect.**
 
 </div>
